@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ML models / large datasets (Optional: remove if you want to push them)
+# *.pkl
+# *.csv
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
