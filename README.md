@@ -1,5 +1,7 @@
 # 🧠 CryptoShield: Machine Learning Engine
 
+> **🚧 WORK IN PROGRESS:** This ML microservice is in its experimental phase as part of an ongoing university research project. The training datasets, model weights, and API responses are subject to frequent changes and ongoing tuning.
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-API-lightgrey?logo=flask)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Enabled-orange?logo=scikit-learn)
